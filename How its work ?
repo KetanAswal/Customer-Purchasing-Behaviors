@@ -1,15 +1,17 @@
 Customer Purchasing Behavior Analysis
+The data set i taken from kaggle here is the link https://www.kaggle.com/datasets/hanaksoy/customer-purchasing-behaviors
+And also upload the dataset in my dataset
 
 Developed an end-to-end analytics pipeline to understand customer purchasing patterns using MySQL, Python, and Power BI.
 
 Steps:
 
-Create MySQL Database Using Python: Automated the creation of a MySQL database and tables using Python scripts.
+1.Create MySQL Database Using Python: Automated the creation of a MySQL database and tables using Python scripts.
 
-Import CSV Data into MySQL: Utilized Python's pandas library to read CSV files and insert the data into MySQL tables.
+2.Import CSV Data into MySQL: Utilized Python's pandas library to read CSV files and insert the data into MySQL tables.
 
-Connect MySQL to Power BI: Established a connection between MySQL and Power BI using ODBC to import data.
+3.Connect MySQL to Power BI: Established a connection between MySQL and Power BI using ODBC to import data.
 
-Create Interactive Dashboard in Power BI: Designed and published an interactive Power BI dashboard to visualize customer purchasing behaviors.
+4.Create Interactive Dashboard in Power BI: Designed and published an interactive Power BI dashboard to visualize customer purchasing behaviors.
 
-This project demonstrates the ability to integrate data from multiple sources and create insightful visualizations to inform business decisions.
+5.This project demonstrates the ability to integrate data from multiple sources and create insightful visualizations to inform business decisions.
